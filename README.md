@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Rinat Kamalitdinov! 
 ### I'm a junior frontend-developer from Yekaterinburg, Russia.
 
-![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5)
 ### 📫 Mail me: rinat1kam@mail.ru
 
 
