@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Rinat Kamalitdinov! 
 ## I'm junior frontend-developer from Yekaterinburg, Russia.
 
-🌱 I’m currently learning JS, React
+I’m currently learning JavaScript and React
 
 
 <!--
