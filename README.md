@@ -2,8 +2,8 @@
 ### I'm a junior frontend-developer from Yekaterinburg, Russia.
 
 
-![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-red?style=for-the-badge&logo=css3)
 
 
 ### 📫 Mail me: rinat1kam@mail.ru
