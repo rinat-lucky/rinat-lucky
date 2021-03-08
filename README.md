@@ -1,8 +1,7 @@
 # Hi there 👋 My name is Rinat Kamalitdinov! 
-## I'm a junior frontend-developer from Yekaterinburg, Russia.
+### I'm a junior frontend-developer from Yekaterinburg, Russia.
+### 📫 Mail me: rinat1kam@mail.ru
 
-### I’m currently learning JavaScript and React.
-### 📫 Mail me: ...
 
 <!--
 **rinat-lucky/rinat-lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
