@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Rinat Kamalitdinov! 
-### I'm a junior frontend-developer from Yekaterinburg, Russia.
+### I'm a junior frontend-developer from Russia.
 
 ### Languages and Technologies:
 
