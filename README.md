@@ -7,7 +7,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
-### ⚡ My website: https://rinat-lucky.github.io/ 
+### ⚡ My websites: https://rinat-lucky.github.io/, https://portfolio-rk.000webhostapp.com/ 
 ### 📫 Mail me: rinat1kam@mail.ru
 
 
