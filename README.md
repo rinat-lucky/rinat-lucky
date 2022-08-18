@@ -15,7 +15,7 @@
   <a href="mailto:rinat1kam@mail.ru">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://t.me/empty_head">
+  <a href="https://t.me/rinat1kam">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
 </p>
