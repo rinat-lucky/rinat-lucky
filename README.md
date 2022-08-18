@@ -5,7 +5,7 @@
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/-css3-2088FF?style=for-the-badge&logo=css3&logoColor=white"/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 <!--
 ### ⚡ My websites: https://portfolio-rk.000webhostapp.com/, https://rinat-lucky.github.io/
