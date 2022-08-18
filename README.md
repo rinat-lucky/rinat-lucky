@@ -10,9 +10,8 @@
 <!--
 ### ⚡ My websites: https://portfolio-rk.000webhostapp.com/, https://rinat-lucky.github.io/
 -->
-### 📫 Contacts: 
+### Contacts: 
 <p align="left">
-  <br>
   <a href="mailto:rinat1kam@mail.ru">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
