@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Rinat Kamalitdinov! 
+# Hi there <img alt="hello" img src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/wave.gif" width="30"> My name is Rinat Kamalitdinov! 
 ### I'm a junior frontend-developer from Russia.
 
 ### Languages and Technologies:
