@@ -10,7 +10,17 @@
 <!--
 ### ⚡ My websites: https://portfolio-rk.000webhostapp.com/, https://rinat-lucky.github.io/
 -->
-### 📫 Mail me: rinat1kam@mail.ru
+### 📫 Contacts: 
+<p align="center">
+  <b>My contacts:</b>
+  <br>
+  <a href="mailto:rinat1kam@mail.ru">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://t.me/empty_head">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+</p>
 
 
 <!--
