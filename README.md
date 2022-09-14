@@ -1,7 +1,7 @@
 # Hi there <img alt="hello" img src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/wave.gif" width="30"> My name is Rinat Kamalitdinov! 
 ### I'm a junior frontend-developer from Russia.
 
-https://www.codewars.com/users/rinat-lucky/badges/large
+[![Codewars Badge](https://www.codewars.com/users/rinat-lucky/badges/large)](https://www.codewars.com/users/rinat-lucky)
 
 ### Languages and Technologies:
 
