@@ -1,4 +1,4 @@
-# Hi there <img alt="hello" img src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/wave.gif" width="30"> My name is Rinat Kamalitdinov! 
+# Hi there <img alt="hello" img src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/wave.gif" width="30"> I'm Rinat! 
 ### I'm a junior frontend-developer from Russia.
 
 [![Codewars Badge](https://www.codewars.com/users/rinat-lucky/badges/micro)](https://www.codewars.com/users/rinat-lucky)
