@@ -16,11 +16,13 @@
 -->
 ### My contacts: 
 <p align="left">
+  Mail:
   <a href="mailto:rinat1kam@mail.ru">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    rinat1kam@mail.ru
   </a>
+  Telegram:
   <a href="https://t.me/rinat1kam">
-    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+    https://t.me/rinat1kam
   </a>
 </p>
 
