@@ -15,17 +15,17 @@
 ### ⚡ My websites: https://portfolio-rk.000webhostapp.com/, https://rinat-lucky.github.io/
 -->
 ### My contacts: 
-<p align="left">
-  ### Mail:
-  <a href="mailto:rinat1kam@mail.ru">
-    rinat1kam@mail.ru
-  </a>
-  <br>
-  ### Telegram:
-  <a href="https://t.me/rinat1kam">
-    https://t.me/rinat1kam
-  </a>
-</p>
+
+#### Mail:
+<a href="mailto:rinat1kam@mail.ru">
+  rinat1kam@mail.ru
+</a>
+ 
+#### Telegram:
+<a href="https://t.me/rinat1kam">
+  https://t.me/rinat1kam
+</a>
+
 
 
 <!--
