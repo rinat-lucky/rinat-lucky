@@ -17,7 +17,6 @@
 ### My contacts: 
 
 #### Mail: <a href="mailto:rinat1kam@mail.ru">rinat1kam@mail.ru</a>
- 
 #### Telegram: <a href="https://t.me/rinat1kam">https://t.me/rinat1kam</a>
 
 <!--
