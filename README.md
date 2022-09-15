@@ -16,17 +16,9 @@
 -->
 ### My contacts: 
 
-#### Mail:
-<a href="mailto:rinat1kam@mail.ru">
-  rinat1kam@mail.ru
-</a>
+#### Mail: <a href="mailto:rinat1kam@mail.ru">rinat1kam@mail.ru</a>
  
-#### Telegram:
-<a href="https://t.me/rinat1kam">
-  https://t.me/rinat1kam
-</a>
-
-
+#### Telegram: <a href="https://t.me/rinat1kam">https://t.me/rinat1kam</a>
 
 <!--
 **rinat-lucky/rinat-lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
