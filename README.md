@@ -16,9 +16,9 @@
 -->
 ### My contacts: 
 
-##### Mail: <a href="mailto:rinat1kam@mail.ru">rinat1kam@mail.ru</a>
-##### Telegram: <a href="https://t.me/rinat1kam">https://t.me/rinat1kam</a>
-##### Resume (CV): <a href="https://cv.hexlet.io/resumes/1055">https://cv.hexlet.io/resumes/1055</a>
+#### Mail: <a href="mailto:rinat1kam@mail.ru">rinat1kam@mail.ru</a>
+#### Telegram: <a href="https://t.me/rinat1kam">https://t.me/rinat1kam</a>
+#### Resume (CV): <a href="https://cv.hexlet.io/resumes/1055">https://cv.hexlet.io/resumes/1055</a>
 
 <!--
 **rinat-lucky/rinat-lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
