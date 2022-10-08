@@ -18,7 +18,9 @@
 
 #### Mail: <a href="mailto:rinat1kam@mail.ru">rinat1kam@mail.ru</a>
 #### Telegram: <a href="https://t.me/rinat1kam">https://t.me/rinat1kam</a>
-#### Resume (CV): <a href="https://cv.hexlet.io/resumes/1055">https://cv.hexlet.io/resumes/1055</a>
+#### Resume (CV): 
+<a href="https://cv.hexlet.io/resumes/1055">https://cv.hexlet.io/resumes/1055</a>
+<a href="https://career.habr.com/rinat_k">https://career.habr.com/rinat_k</a>
 
 <!--
 **rinat-lucky/rinat-lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
