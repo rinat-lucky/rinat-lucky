@@ -10,17 +10,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-css3-2088FF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
-  
-<!--
-### ⚡ My websites: https://portfolio-rk.000webhostapp.com/, https://rinat-lucky.github.io/
--->
 
-### [![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/rinat-lucky/github-readme-stats)
-
-<p align="center">
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars,issues&count_private=true&show_icons=true" alt="rinat-lucky's Github Stats">
-</p>
+### [![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/rinat-lucky/github-readme-stats)
 
 ### My contacts: 
 
@@ -41,4 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+### ⚡ My websites: https://portfolio-rk.000webhostapp.com/, https://rinat-lucky.github.io/
 -->
