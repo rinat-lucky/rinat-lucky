@@ -11,7 +11,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
 
-### [![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/rinat-lucky/github-readme-stats)
+### [![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars,issues&count_private=true&show_icons=true&theme=merko)](https://github.com/rinat-lucky/github-readme-stats)
 
 ### My contacts: 
 
