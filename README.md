@@ -14,6 +14,8 @@
 <!--
 ### ⚡ My websites: https://portfolio-rk.000webhostapp.com/, https://rinat-lucky.github.io/
 -->
+[![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky)](https://github.com/rinat-lucky/github-readme-stats)
+
 ### My contacts: 
 
 #### Mail: <a href="mailto:rinat1kam@mail.ru">rinat1kam@mail.ru</a>
