@@ -19,7 +19,7 @@
 
 <p align="center">
   <br>
-    <img src="[https://github-readme-stats.vercel.app/api?username=emp7yhead&hide=stars,issues&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars,issues&count_private=true&show_icons=true)" alt="rinat-lucky's Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars,issues&count_private=true&show_icons=true" alt="rinat-lucky's Github Stats">
 </p>
 
 ### My contacts: 
