@@ -17,6 +17,8 @@
 
 #### Mail: <a href="mailto:rinat1kam@mail.ru">rinat1kam@mail.ru</a>
 #### Telegram: <a href="https://t.me/rinat1kam">https://t.me/rinat1kam</a>
+#### LinkedIn: <a href="https://www.linkedin.com/in/rinat-kamalitdinov">Link</a>
+
 #### Resume (CV): 
 <a href="https://cv.hexlet.io/resumes/1055">https://cv.hexlet.io/resumes/1055</a><br>
 <a href="https://career.habr.com/rinat_k">https://career.habr.com/rinat_k</a>
