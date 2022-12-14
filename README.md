@@ -7,8 +7,10 @@
 
 <div display="flex">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/-css3-2088FF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=white&color=blueviolet"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f4f725?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/-react-2088FF?style=for-the-badge&logo=react&logoColor=white"/>
+  
 </div>
 
 ### [![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/rinat-lucky)
