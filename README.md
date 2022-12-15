@@ -10,7 +10,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=white&color=blueviolet"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f4f725?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/-react-2088FF?style=for-the-badge&logo=react&logoColor=white"/>
-  
 </div>
 
 ### [![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/rinat-lucky)
@@ -25,6 +24,9 @@
 <a href="https://cv.hexlet.io/resumes/1055">https://cv.hexlet.io/resumes/1055</a><br>
 <a href="https://career.habr.com/rinat_k">https://career.habr.com/rinat_k</a>
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 <!--
 **rinat-lucky/rinat-lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
