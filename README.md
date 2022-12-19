@@ -23,9 +23,7 @@
 #### Resume (CV): 
 <a href="https://cv.hexlet.io/resumes/1055">https://cv.hexlet.io/resumes/1055</a><br>
 <a href="https://career.habr.com/rinat_k">https://career.habr.com/rinat_k</a>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
+
 <!--
 **rinat-lucky/rinat-lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
