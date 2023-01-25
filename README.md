@@ -6,10 +6,12 @@
 ### Languages and Technologies:
 
 <div display="flex">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=white&color=blueviolet"/>
+  <img alt="html5" src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-css-2962FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-9217d4?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f4f725?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/-react-2088FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-react-282c34?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img alt="Redux" src="https://img.shields.io/badge/-redux-9217d4?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
 
 ### [![Rinat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinat-lucky&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/rinat-lucky)
