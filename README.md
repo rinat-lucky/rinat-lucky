@@ -10,7 +10,7 @@ I'm a frontend-developer from Russia.
 ### Codewars & LeetCode:
 [![Codewars Badge](https://www.codewars.com/users/rinat-lucky/badges/small)](https://www.codewars.com/users/rinat-lucky)
 <br/>
-[![Rinat's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rinat_lucky&theme=dark)](https://github.com/rinat-lucky/leetcode-stats)
+[![Rinat's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rinat_lucky&theme=dark)](https://leetcode.com/rinat_lucky/)
 <br/>
 
 ### My contacts: 
